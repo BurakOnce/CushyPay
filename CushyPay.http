@@ -1,0 +1,6 @@
+@CushyPay_HostAddress = http://localhost:5053
+
+GET {{CushyPay_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
