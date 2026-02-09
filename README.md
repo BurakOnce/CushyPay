@@ -1,4 +1,5 @@
 # CushyPay - Next Gen Banking & Payment API
+**The project is currently under active development...**
 
 A robust, scalable, and secure backend API for a Fintech project built with .NET 8, ASP.NET Core Web API, and MSSQL.
 
